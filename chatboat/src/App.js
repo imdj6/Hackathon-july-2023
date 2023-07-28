@@ -3,7 +3,7 @@ import AnswerSection from "./components/AnswerSection";
 import "./App.css"
 function App() {
   return (
-    <div>
+    <div className="app">
       <div className="header-section">
         <h1>Ask Me AnyThinG 🤖</h1>
         <p>

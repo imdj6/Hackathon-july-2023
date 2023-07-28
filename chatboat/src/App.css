@@ -12,3 +12,8 @@
   font-weight: 300;
   margin-top: 10px;
 }
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

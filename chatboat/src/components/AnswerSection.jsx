@@ -1,19 +1,21 @@
-import "./FormSection.css"
+import "./FormSection.css";
 const AnswerSection = () => {
-    return (
-        <>
-            <hr className="hr-line" />
-            <div className="answer-container">
-                <div className="answer-section">
-                    <p className="question">Who is the founder of OpenAi?</p>
-                    <p className="answer">OpenAI was founded in December 2015 by Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, Wojciech Zaremba, and John Schulman.</p>
-                    <div className="copy-icon">
-                        <i className="fa-solid fa-copy"></i>
-                    </div>
-                </div>
-            </div>
-        </>
-    )
-}
+  return (
+    <>
+      <hr className="hr-line" />
+      <div className="answer-container">
+        <div className="answer-section">
+          <p className="question">Who is the founder of OpenAi?</p>
+          <p className="answer">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque necessitatibus ipsa quibusdam placeat, quia culpa nostrum quos magnam hic ratione. Vero quas earum maxime voluptatibus. Quos at illo, doloremque deserunt sequi fuga laborum? Hic quia repellat nam cum earum accusamus unde sapiente, in laborum modi! At nisi laborum consectetur. Et tempora rem similique laboriosam doloremque accusantium omnis amet ea quaerat necessitatibus eligendi rerum distinctio quia, qui quam voluptatum molestiae quidem, voluptas sequi ipsam aliquam nesciunt dolores excepturi! Quia quam dolor soluta aspernatur, aliquid dolorum? Tempora amet, adipisci fuga molestias minus blanditiis, quaerat non autem odio quam cum iure enim. Ipsam quaerat, in, quos maxime modi excepturi quo a culpa, repellendus sequi quis dolore veritatis quae eos sed iusto. Iste laborum laboriosam sint porro. Praesentium illo iure ullam nostrum nulla. Maxime perspiciatis rem saepe provident! Est atque voluptates officiis possimus maiores in, repellendus labore officia tempora error corporis itaque asperiores dicta. Aspernatur sequi, quia deleniti harum repudiandae suscipit sed laborum delectus reiciendis. Voluptatem, neque deserunt numquam harum cumque, libero provident excepturi eaque totam qui rerum debitis maiores fuga rem esse in? Provident rerum consequatur nesciunt suscipit eligendi beatae repellendus adipisci obcaecati autem soluta nostrum, aspernatur cupiditate eaque ad ipsum ab! Eos molestias expedita, non temporibus aut debitis ad laborum tenetur, ducimus voluptates voluptatem ipsum architecto? Beatae blanditiis facere praesentium rem molestiae? Quo eos, facere alias dolor reprehenderit ea, nemo nisi quaerat ut facilis ipsum? Cum laborum magni libero quis corporis? Quia animi pariatur officia illo asperiores temporibus laborum repudiandae voluptatibus assumenda eum! Deleniti expedita exercitationem reprehenderit eveniet perspiciatis temporibus quod ratione et ducimus distinctio voluptates est libero, hic eius, id doloribus sed necessitatibus unde! Officiis nobis cum hic sit asperiores fugiat, doloremque repudiandae porro ut commodi, id ad quisquam deserunt sint temporibus molestiae. In hic recusandae ipsum fugiat voluptatem necessitatibus commodi deleniti ipsam at autem voluptates accusantium maiores vitae suscipit a nemo dignissimos, officiis nam excepturi laudantium unde aut temporibus eaque dolorum? Illum iusto, quos, esse enim repellendus voluptates id aspernatur placeat officiis dolor ducimus dignissimos adipisci natus harum! Adipisci doloribus animi odit illo quisquam, tempora accusamus voluptatem minima consectetur nihil officiis repudiandae, distinctio nisi itaque, ipsam excepturi aperiam obcaecati nesciunt earum modi ipsum esse. Adipisci aspernatur odit commodi optio nobis labore autem quis perspiciatis ea. Dolore ipsa recusandae suscipit necessitatibus voluptas quam consequuntur, nobis est libero dolorum accusantium ut, consectetur totam neque. Ad nostrum exercitationem sint quasi asperiores accusamus, dolorem ipsam aspernatur nulla quos inventore eos placeat reiciendis maxime et sapiente optio id aperiam deserunt assumenda voluptatibus alias itaque. Nesciunt molestiae animi beatae, eligendi aperiam voluptatum dignissimos saepe nulla voluptate veniam doloremque architecto rerum deleniti illum fugiat ullam. Mollitia ad nemo exercitationem laudantium rem iusto sit saepe vitae. Esse beatae culpa ipsam repellat quo est vel provident vitae neque tempora laboriosam illo veniam laborum quae ut, quibusdam repudiandae quia laudantium ad accusantium accusamus temporibus similique ipsa! Soluta dolorem aut cupiditate voluptate et deserunt explicabo dolore perspiciatis, porro voluptas totam impedit ratione eaque esse nam minus molestias doloremque architecto. Illum nostrum dolor corporis iste architecto? Cum qui porro voluptates mollitia, error inventore adipisci ducimus odit laborum perspiciatis iusto, nemo sapiente ab est aspernatur? Ipsum, ex officiis animi ullam officia labore amet odio quae. Maiores, eligendi. Eum id suscipit accusamus reiciendis doloremque nisi sequi dolorum natus modi eos.
+          </p>
+          <div className="copy-icon">
+            <i className="fa-solid fa-copy"></i>
+          </div>
+        </div>
+      </div>
+    </>
+  );
+};
 
 export default AnswerSection;
