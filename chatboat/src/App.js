@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-
+import FormSection from "./components/FormSection";
+import AnswerSection from "./components/AnswerSection";
+import "./App.css"
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <div>
+      <div className="header-section">
+        <h1>Ask Me AnyThinG 🤖</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I am an automated question and answer system, designed to assist you
+          in finding relevant information. You are welcome to ask me any queries
+          you may have, and I will do my utmost to offer you a reliable
+          response. Kindly keep in mind that I am a machine and operate solely
+          based on programmed algorithms.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      </div>
+      <FormSection />
+      <AnswerSection />
     </div>
   );
 }
